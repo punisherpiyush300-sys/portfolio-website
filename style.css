@@ -18,3 +18,12 @@ section {
     padding: 20px;
     border-radius: 10px;
 }
+<section>
+    <h2>My Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+    </ul>
+</section>
